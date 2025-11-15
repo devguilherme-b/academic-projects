@@ -1,0 +1,11 @@
+# Build / executáveis
+*.exe
+*.o
+*.obj
+
+# Arquivos gerados automaticamente pelo sistema
+*.txt
+
+# Arquivos de layout / IDE (opcional)
+*.layout
+*.dev
