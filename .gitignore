@@ -1,11 +1,17 @@
-# Build / executáveis
+# executáveis
 *.exe
+
+# arquivos de objeto
 *.o
 *.obj
 
-# Arquivos gerados automaticamente pelo sistema
+# arquivos da IDE (Dev-C++, CodeBlocks, etc)
+*.dev
+*.layout
+
+# arquivos gerados automaticamente pelo programa
 *.txt
 
-# Arquivos de layout / IDE (opcional)
-*.layout
-*.dev
+# pastas de build (se existirem)
+build/
+bin/
